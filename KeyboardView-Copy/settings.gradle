@@ -1,0 +1,3 @@
+include ':keyboardview'
+include ':app'
+rootProject.name = "KeyboardView-Copy"

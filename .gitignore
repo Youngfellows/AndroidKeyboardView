@@ -83,3 +83,7 @@ lint/generated/
 lint/outputs/
 lint/tmp/
 # lint/reports/
+01/keyboardview/.idea/
+03/KeyboardView/.idea/
+EasyKeyBoardView/.idea/
+KeyboardViewDemo/.idea/
